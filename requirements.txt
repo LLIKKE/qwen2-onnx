@@ -1,0 +1,5 @@
+onnx==1.16.1
+onnxruntime==1.18.1
+transformers==4.37.0
+torch==2.1.0
+tqdm
